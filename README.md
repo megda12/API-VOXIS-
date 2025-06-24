@@ -113,7 +113,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Sprint 3 - Desenvolvimento
 - [x] Desenvolvimento do planejamento estratégico da empresa (Excel e Word) 
 - [x] Sistema de gerenciamento da Empresa
-- [x] DASHOBAROD no Power bi
+- [x] DASHBOARD no Power bi
 
 ## Sprint 4 - Conclusão
 - [x] Entrega Planejamento
