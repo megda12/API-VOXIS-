@@ -40,6 +40,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## OBJETIVO DO PROJETO
 Este trabalho tem como objetivo analisar a estrutura e organização da base de dados (Telefônica) , evidenciando possíveis desacertos encontrados na organização e propor soluções e melhorias para o negócio.
+Criando uma empresa que venda celulares e planos.
 
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
 - Análise das atividades 1 e 2;
