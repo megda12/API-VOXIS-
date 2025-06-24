@@ -84,6 +84,7 @@ A equipe demonstrou uma abordagem e mentalidade aberta para a inovação desde o
 
 ## Cronograma
  Cronograma do projeto, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence;
+ O cronograma foi feito pelo Teams, Comunicações pessoalmente e WhatsApp;
 
 ## Backlog da empresa
 Nome | Função | Status| Sprint|
