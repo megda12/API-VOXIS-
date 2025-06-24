@@ -83,17 +83,16 @@ A equipe demonstrou uma abordagem e mentalidade aberta para a inovação desde o
 # Cronograma das Sprints
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+ Cronograma do projeto, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence;
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
-
-## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
-</p>
+## Backlog da empresa
+|------|--------|------|--------|
+|Nome | Função | concluido| Sprint|
+|Fábio | Responsável pelo Power bi e planilha de base de dados | concluido | Sprint 1 a 3
+|Moisés| Responsável pela Planilha Base de Dados e Word| concluido | Sprint 1 a 3
+|Alinny| Responsável pelo SWOT e Word| concluido| Sprint 1 a 3
+|Ana| Responsável pelo relatório e Canvas da Empresa| concluido| Sprint 1 a 3
+|Matheus| Responsável pelo github e Canvas da Empresa| concluido| Sprint 1 a 3
 
 ## Burndown
 >Colocar aqui Burndown do projeto
