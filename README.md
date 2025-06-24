@@ -96,11 +96,7 @@ Nome | Função | Status| Sprint|
 |Matheus| Responsável pelo github e Canvas da Empresa| concluido| Sprint 1 a 3
 
 ## Burndown
->Colocar aqui Burndown do projeto
-
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
-</p>
+![image](https://github.com/user-attachments/assets/551d5760-8e4a-4b3a-8474-023fa1f4dbe7)
 
 ## Sprint 1 - Concepção
 - [x] Kickoff
