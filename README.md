@@ -28,7 +28,7 @@ Sprint | Previsão | Status| Histórico|
 |01 | 01/04/2025 | concluido| [Sprint 1 - 01 04.pptx](https://github.com/user-attachments/files/20889734/Sprint.1.-.01.04.pptx) 
 |02|  06/05/2025| concluido | [Sprint 2 - 06 05.pptx](https://github.com/user-attachments/files/20889752/Sprint.2.-.06.05.pptx)
 |03| 10/06/2025 | concluido| [Sprint 3 - 10 06.pptx](https://github.com/user-attachments/files/20889754/Sprint.3.-.10.06.pptx)
-|03| 17/06/2025 | concluido| [modelo-feira-de-soluções [Salvo automaticamente] 2.pptx](https://github.com/user-attachments/files/20893447/modelo-feira-de-solucoes.Salvo.automaticamente.2.pptx)
+|Feira Soluções| 17/06/2025 | concluido| [modelo-feira-de-soluções [Salvo automaticamente] 2.pptx](https://github.com/user-attachments/files/20893447/modelo-feira-de-solucoes.Salvo.automaticamente.2.pptx)
 
 
 
