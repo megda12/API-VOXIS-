@@ -30,9 +30,6 @@ Sprint | Previsão | Status| Histórico|
 |03| 10/06/2025 | concluido| [Sprint 3 - 10 06.pptx](https://github.com/user-attachments/files/20889754/Sprint.3.-.10.06.pptx)
 
 
-
-> Possíveis status: a fazer, em progresso e concluido
-
 # Micro Certificações
 <p align="center">
  <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
