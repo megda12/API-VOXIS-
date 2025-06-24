@@ -18,77 +18,66 @@ Projeto baseado na metodologia de uma Base de dados Telefônica, procurando dese
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+Projeto pedagógico na Metodologia API para o aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e apresentar a solução.
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | dd/mm/aaaa | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  dd/mm/aaaa| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| dd/mm/aaaa | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
-|Feira de Soluções|dd/mm/aaaa |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 14/03/2025 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01 | 01/04/2025 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02|  22/04/2025| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|03| 07/05/2025 | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+
 
 > Possíveis status: a fazer, em progresso e concluido
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-green"/>
 </p>
 
 # Equipe
->Colocar aqui uma imagem da equipe com a logo do grupo.
+![image](https://github.com/user-attachments/assets/42d64d38-abe3-474b-b0e0-41ad8942197c)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
+## OBJETIVO DO PROJETO
+Este trabalho tem como objetivo analisar a estrutura e organização da base de dados (Telefônica) , evidenciando possíveis desacertos encontrados na organização e propor soluções e melhorias para o negócio.
 
-# Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
+- Análise das atividades 1 e 2;
+- Realizar uma análise SWOT;
+- Realizar um modelo de negócios com CANVAS;
+- Pesquisa inicial;
+- Desenvolvimento do Planejamento Estratégico da Empresa;
+- Proposta do Dashboard no Power BI;
+- Relatório Final;
 
-# Funcionalidades e Demonstrações das Sprints
+# Funcionalidades Sprints
 
 ## Sprint 1
->Colocar o vídeo da apresentação
-
-[![SPRINT 1](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
+![image](https://github.com/user-attachments/assets/3dd58f6f-740a-435c-8340-655e6ce9b699)
 
 ## Sprint 2
->Colocar o vídeo da apresentação
-
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
+![image](https://github.com/user-attachments/assets/6ea4ccd4-2332-4144-883d-f28b7486953f)
 
 ## Sprint 3
->Colocar o vídeo da apresentação
-
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
-
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
-
+![image](https://github.com/user-attachments/assets/b0292040-5389-4b4e-8c8d-8298c977719b)
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+Foi realizada a privatização do serviço de telefonia de um determinado país.
+As empresas vencedoras do leilão compraram o direito de implantar redes de telefonia móvel em determinadas regiões.
+Cada empresa de telefonia móvel será responsável pela instalação da infrastrutura de serviços e comercialização de celulares.
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+- Power BI
+- Canvas
+- Word
+- Excel
+- PowerPoint
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+A equipe demonstrou uma abordagem e mentalidade aberta para a inovação desde o início do projeto, eles adotaram uma mentalidade de resolução de problemas e abordagem das mudança de maneira proativa.
 
 # Cronograma das Sprints
 
@@ -113,20 +102,29 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [x] Kickoff
+- [x] Pesquisa de mercado
+- [x] Analise swot
 
 ## Sprint 2 - Desenvolvimento do Projeto
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [x] Análise de atividades 1 e 2 
+- [x] Swot da empresa
+- [x] Canvas da empresa
+- [x] Pesquisa inicial preenchida 
       
-## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+## Sprint 3 - Desenvolvimento
+- [x] Desenvolvimento do planejamento estratégico da empresa (Excel e Word) 
+- [x] Sistema de gerenciamento da Empresa
+- [x] DASHOBAROD no Power bi
+
+## Sprint 4 - Conclusão
+- [x] Entrega Planejamento
+- [x] Power BI
+- [x] Relatório Final
+
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
 <details>
@@ -134,12 +132,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| EXCEL | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| POWER BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| WORD | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| GITHUB | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| CANVAS | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| POWER POINT | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
@@ -149,12 +147,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| ComunicaçãO | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
 
@@ -165,3 +163,5 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 |Product Owner| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Scrum Master| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 |Team Member| | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Team Member|
+|Team Member|
