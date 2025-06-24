@@ -88,7 +88,6 @@ A equipe demonstrou uma abordagem e mentalidade aberta para a inovação desde o
 ## Backlog da empresa
 Nome | Função | Status| Sprint|
 |------|--------|------|--------|
-|Nome | Função | concluido| Sprint|
 |Fábio | Responsável pelo Power bi e planilha de base de dados | concluido | Sprint 1 a 3
 |Moisés| Responsável pela Planilha Base de Dados e Word| concluido | Sprint 1 a 3
 |Alinny| Responsável pelo SWOT e Word| concluido| Sprint 1 a 3
