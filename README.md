@@ -25,9 +25,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 14/03/2025 | concluido| [Ver Relatório](https://github.com/megda12/API-VOXIS-/blob/main/Sprint%201/imagem/Relat%C3%B3rio%20API1f.docx) | 
-|01 | 01/04/2025 | concluido| 
-|02|  22/04/2025| concluido |
-|03| 07/05/2025 | concluido|
+|01 | 01/04/2025 | concluido| [Sprint 1 - 01 04.pptx](https://github.com/user-attachments/files/20889734/Sprint.1.-.01.04.pptx) 
+|02|  06/05/2025| concluido | [Sprint 2 - 06 05.pptx](https://github.com/user-attachments/files/20889752/Sprint.2.-.06.05.pptx)
+|03| 10/06/2025 | concluido| [Sprint 3 - 10 06.pptx](https://github.com/user-attachments/files/20889754/Sprint.3.-.10.06.pptx)
+
 
 
 > Possíveis status: a fazer, em progresso e concluido
