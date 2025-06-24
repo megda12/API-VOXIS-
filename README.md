@@ -24,10 +24,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 14/03/2025 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 01/04/2025 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  22/04/2025| concluido |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 07/05/2025 | concluido|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Kick Off | 14/03/2025 | concluido| [Ver Relatório](https://github.com/megda12/API-VOXIS-/blob/main/Sprint%201/imagem/Relat%C3%B3rio%20API1f.docx) | 
+|01 | 01/04/2025 | concluido| 
+|02|  22/04/2025| concluido |
+|03| 07/05/2025 | concluido|
 
 
 > Possíveis status: a fazer, em progresso e concluido
